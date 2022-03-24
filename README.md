@@ -9,7 +9,7 @@ Among large metro areas, Los Angeles and Riverside have the highest percentages 
 ![14 largest metros](https://github.com/abcotvdata/gas-stoves/blob/main/KdirK-percent-of-home-units-using-piped-gas-for-cooking.png)
 [Interactive version here](https://datawrapper.dwcdn.net/KdirK/1/)
 
-A recent study out of Sanford shows that annual methane emissions from all gas stoves in U.S. homes have a climate impact comparable to the annual carbon dioxide emissions from 500,000 cars, and that more than three-quarters of the methane emissions were from when the stove was off. The stoves also emitted other health-damaging air pollutants like nitrogen oxides, which can trigger respiratory diseases.  
+A recent [study out of Stanford](https://pubs.acs.org/doi/10.1021/acs.est.1c04707) shows that annual methane emissions from all gas stoves in U.S. homes have a climate impact comparable to the annual carbon dioxide emissions from 500,000 cars, and that more than three-quarters of the methane emissions were from when the stove was off. The stoves also emitted other health-damaging air pollutants like nitrogen oxides, which can trigger respiratory diseases.  
 
 And while many older homes/buildings use piped gas for cooking (about half of homes built in 1939 or earlier use gas) the low is actually among homes built in the ‘70s, ‘80s, and ‘90s. About 44% of homes built in 2018 or 2019 (the most current year available). 
 
